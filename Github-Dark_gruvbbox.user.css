@@ -336,6 +336,7 @@ a.color-fg-default{
 		background-color: #16181A !important ; 
 		font-size : 1rem !important ; 
 		font-weight: 600 !important ; 
+		padding: 6px 5px   !important ;
 	}
 	
 	
@@ -650,10 +651,66 @@ color : #FE8019 !important  ;
 		color : #D3869B !important ; 
 	}
 	
-	
+	/*Applies TO non selvtable items in the code clors */
 	pre{
 		color : #B8BB26 !important  ; 
 	}
+	
+	/*Chnaged colors to native gruvbox*/
+	span.pl-e{
+		color  :#D3869B !important  ; 
+	}
+	
+	
+	/*Sumamry */
+	/*Drop down hidden section */
+	details summary {
+color : #E092BE !important ; 
+}
+	
+	
+	/*Quotes*/
+	blockquote{
+		background-color : #1D2021 !important ; 
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	/*Markdown Tables*/
+	/*Header for table*/
+	
+	th{
+		color : #689D6A !important ; 
+		background-color : #282828 !important ; 
+	}
+	
+	
+	
+	/*Conent of the table , , Td of table  */
+		td{
+		color : #689D6A !important ; 
+		background-color : #16181A !important ; 
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
