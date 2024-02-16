@@ -683,6 +683,18 @@ color : #FE8019 !important  ;
 		color  :#D3869B !important  ; 
 	}
 	
+	/*Json SYntax highlighting */
+	span.pl-ent{
+		color  : #8EC07C !important ; 
+	}
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	/*Sumamry */
 	/*Drop down hidden section */
