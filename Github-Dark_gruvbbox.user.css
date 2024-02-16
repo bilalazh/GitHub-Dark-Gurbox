@@ -340,6 +340,18 @@ a.color-fg-default{
 	
 	
 	
+	kbd.AppHeader-search-kbd{
+			color: #FE8019 !important ; 
+		background-color: #1A1B1D !important ; 
+		border : solid #79740E !important ; 
+		border-width: 0.1px !important ;
+		font-size: 90% !important ; 
+		font-weight: 600 !important ; 
+		padding: 0px  9px  !important ; 
+	}
+	
+	
+	
 	/*T -> keyboard shortcut */
 	kbd{
 		color: #FE8019 !important ; 
