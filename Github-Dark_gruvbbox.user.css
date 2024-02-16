@@ -688,7 +688,10 @@ color : #FE8019 !important  ;
 		color  : #8EC07C !important ; 
 	}
 	
-	
+	/*Init.vim code block color */
+	span.pl-en{
+		color : #D3869B !important ; 
+	}
 	
 	
 	
