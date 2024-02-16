@@ -173,6 +173,16 @@ fill : #FB4934 !important ;
 	
 	
 	
+	/*Universal background*/
+	body {
+		background: #16181A !important  ; 
+	}
+	
+	
+	
+	
+	
+	
 	
 	
 	/*Top BAR  */
@@ -334,9 +344,9 @@ a.color-fg-default{
 	kbd{
 		color: #FE8019 !important ; 
 		background-color: #16181A !important ; 
-		font-size : 1rem !important ; 
+		font-size: 90% !important ; 
 		font-weight: 600 !important ; 
-		padding: 6px 5px   !important ;
+		padding: 6px 6px  !important ; 
 	}
 	
 	
