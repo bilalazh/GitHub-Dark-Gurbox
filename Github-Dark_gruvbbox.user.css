@@ -132,6 +132,7 @@
   --interface-light4: #a89988; /* light4: #a89988 */
 
 
+		
    
 }
 	
@@ -139,7 +140,7 @@
 	
 	
 	
-	
+	--fontStack-monospace : "Chivo" ,  monospace ; 
 
 
 	
@@ -636,6 +637,35 @@ color : #FE8019 !important  ;
     background-color:#1A1B1D !important ; 
     border-radius: 6px;
 }
+	
+	
+	
+
+	
+	/*Overlapping code block  -> code block that was having issues  */
+.react-blob-print-hide{
+	
+	
+	/*Hacky way to make this work - >> i can still select text  this way */
+	opacity: 0  ; 
+    background: none !important ; 
+    box-sizing: content-box;
+    position: relative;
+    border: none;
+    tab-size: 8;
+    outline: none;
+    overflow: auto hidden;
+
+    white-space: normal !important ;
+}
+	
+	
+
+	
+	
+	
+	
+	
 	
 	
 	
